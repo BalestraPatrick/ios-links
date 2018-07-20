@@ -6,3 +6,6 @@
 ### Swift Open-Source
 - [Swift GYB](https://nshipster.com/swift-gyb/)
 - [Integrating GYB with Xcode](https://tonyarnold.com/2018/07/11/gyb-xcode-integration.html)
+
+### Xcode Tricks
+- [Show touches in Simulator](https://twitter.com/liamnichols_/status/1018812142693253120)
