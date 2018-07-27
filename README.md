@@ -9,3 +9,6 @@
 
 ### Xcode Tricks
 - [Show touches in Simulator](https://twitter.com/liamnichols_/status/1018812142693253120)
+
+### Smart Swift
+- [Custom Types-For Powerful Matching](http://www.figure.ink/blog/2018/7/23/custom-types-for-powerful-matching)
