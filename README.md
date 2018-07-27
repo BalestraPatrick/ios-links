@@ -9,6 +9,7 @@
 
 ### Xcode Tricks
 - [Show touches in Simulator](https://twitter.com/liamnichols_/status/1018812142693253120)
+- [Configuration Files](https://davedelong.com/blog/2018/07/25/conditional-compilation-in-swift-part-1)
 
-### Smart Swift
+### Swift
 - [Custom Types-For Powerful Matching](http://www.figure.ink/blog/2018/7/23/custom-types-for-powerful-matching)
