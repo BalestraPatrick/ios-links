@@ -16,6 +16,7 @@
 
 ### Swift
 - [Custom Types For Powerful Matching](http://www.figure.ink/blog/2018/7/23/custom-types-for-powerful-matching)
+- [Implementing Promises in Swift](https://felginep.github.io/2019-01-06/implementing-promises-in-swift)
 
 
 ### Rapsberry Pi
