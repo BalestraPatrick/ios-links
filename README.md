@@ -22,6 +22,8 @@
 - [Implementing Promises in Swift](https://felginep.github.io/2019-01-06/implementing-promises-in-swift)
 - [Swift AST Explorer](https://swift-ast-explorer.kishikawakatsumi.com)
 
+### Software Engineering
+- [Software Engineering at Google](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
 
 ### Rapsberry Pi
 - [Set Up Screen Share Mac](https://github.com/HackerShackOfficial/Raspberry-Pi-VNC-Mac)
