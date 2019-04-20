@@ -20,6 +20,7 @@
 - [Using iOS 12 devices with Xcode 9](https://gist.github.com/steipete/d9b44d8e9f341e81414e86d7ff8fb62d)
 - [Build settings reference](https://help.apple.com/xcode/mac/10.0/#/itcaec37c2a6)
 - [os_log streaming](https://www.iosdev.recipes/simulator/os_log/)
+- [Bitcode](https://pspdfkit.com/guides/ios/current/faq/bitcode/)
 
 ### Swift
 - [Custom Types For Powerful Matching](http://www.figure.ink/blog/2018/7/23/custom-types-for-powerful-matching)
