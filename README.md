@@ -21,6 +21,7 @@
 - [Build settings reference](https://help.apple.com/xcode/mac/10.0/#/itcaec37c2a6)
 - [os_log streaming](https://www.iosdev.recipes/simulator/os_log/)
 - [Bitcode](https://pspdfkit.com/guides/ios/current/faq/bitcode/)
+- [New Build System Tricks](https://gist.github.com/ddunbar/2dda0e836c855ea96759d1d05f086d69)
 
 ### Swift
 - [Custom Types For Powerful Matching](http://www.figure.ink/blog/2018/7/23/custom-types-for-powerful-matching)
